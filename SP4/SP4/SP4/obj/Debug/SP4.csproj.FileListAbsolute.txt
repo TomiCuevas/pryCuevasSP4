@@ -1,0 +1,11 @@
+C:\Users\Tomás Cuevas\Documents\Facultad\2º SEMESTRE\LABORATORIO DE PROGRAMACION I\EJERCICIOS DE UNIDADES\SP4\SP4\SP4\bin\Debug\SP4.exe.config
+C:\Users\Tomás Cuevas\Documents\Facultad\2º SEMESTRE\LABORATORIO DE PROGRAMACION I\EJERCICIOS DE UNIDADES\SP4\SP4\SP4\bin\Debug\SP4.exe
+C:\Users\Tomás Cuevas\Documents\Facultad\2º SEMESTRE\LABORATORIO DE PROGRAMACION I\EJERCICIOS DE UNIDADES\SP4\SP4\SP4\bin\Debug\SP4.pdb
+C:\Users\Tomás Cuevas\Documents\Facultad\2º SEMESTRE\LABORATORIO DE PROGRAMACION I\EJERCICIOS DE UNIDADES\SP4\SP4\SP4\obj\Debug\SP4.csproj.AssemblyReference.cache
+C:\Users\Tomás Cuevas\Documents\Facultad\2º SEMESTRE\LABORATORIO DE PROGRAMACION I\EJERCICIOS DE UNIDADES\SP4\SP4\SP4\obj\Debug\SP4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tomás Cuevas\Documents\Facultad\2º SEMESTRE\LABORATORIO DE PROGRAMACION I\EJERCICIOS DE UNIDADES\SP4\SP4\SP4\obj\Debug\SP4.frmTriatlon.resources
+C:\Users\Tomás Cuevas\Documents\Facultad\2º SEMESTRE\LABORATORIO DE PROGRAMACION I\EJERCICIOS DE UNIDADES\SP4\SP4\SP4\obj\Debug\SP4.Properties.Resources.resources
+C:\Users\Tomás Cuevas\Documents\Facultad\2º SEMESTRE\LABORATORIO DE PROGRAMACION I\EJERCICIOS DE UNIDADES\SP4\SP4\SP4\obj\Debug\SP4.csproj.GenerateResource.cache
+C:\Users\Tomás Cuevas\Documents\Facultad\2º SEMESTRE\LABORATORIO DE PROGRAMACION I\EJERCICIOS DE UNIDADES\SP4\SP4\SP4\obj\Debug\SP4.csproj.CoreCompileInputs.cache
+C:\Users\Tomás Cuevas\Documents\Facultad\2º SEMESTRE\LABORATORIO DE PROGRAMACION I\EJERCICIOS DE UNIDADES\SP4\SP4\SP4\obj\Debug\SP4.exe
+C:\Users\Tomás Cuevas\Documents\Facultad\2º SEMESTRE\LABORATORIO DE PROGRAMACION I\EJERCICIOS DE UNIDADES\SP4\SP4\SP4\obj\Debug\SP4.pdb
